@@ -39,7 +39,7 @@ pip install tensorflow numpy opencv-python pillow matplotlib kaggle
 ## Usage
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+https://github.com/CaptianErek/Emotion_Recognisation.git
 cd your-repo-name
 ```
 Place your kaggle.json file into the working directory
